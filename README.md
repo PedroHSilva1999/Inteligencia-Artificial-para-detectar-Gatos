@@ -2,6 +2,7 @@
 
 Sistema de detecção de gatos em imagens usando YOLOv8 e interface web moderna.
 
+![image](https://github.com/user-attachments/assets/29a348e7-d434-44fe-86d4-04f6e904a399)
 
 ## 📋 Índice
 
